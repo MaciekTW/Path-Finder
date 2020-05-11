@@ -3,7 +3,7 @@ Backtracking algorithm.
 
 
 ## Description
-##### This application uses backtracking to find a path to a harbor for our ship. The algorithms also counts the amount of moves that are needed to reach the destination.  The ship cannot sail on too shallow water, it means it has to avoid the Sea sectors where the water level is too low. The depth of a sector must be at least 5 so the ship could safely sail on it. This minimal depth and also the size of sea map can be easily changed in main file. 
+##### This application uses backtracking to find a path to a harbor for our ship. The algorithm also counts the amount of moves that are needed to reach the destination.  The ship cannot sail on too shallow water, it means it has to avoid the Sea sectors where the water level is too low. The depth of a sector must be at least 5 so the ship could safely sail on it. This minimal depth and also the size of sea map can be easily changed in main file. 
 
 ## Text File Format
 
